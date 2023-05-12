@@ -1,2 +1,3 @@
 #!/bin/bash
-0   regex   \bSCHOOL\b    School data file
+0 string SCHOOL school data
+!:mime school
